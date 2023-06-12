@@ -1,8 +1,8 @@
 export interface Props {
   /**
-   * Google Analytics 4 ID.
+   * Microsoft clarity ID.
    *
-   * **Default**: `'G-XXXXXXXXXX'`
+   * **Default**: `'hh1oiyc7xx'`
    * */
   id: string;
 }
