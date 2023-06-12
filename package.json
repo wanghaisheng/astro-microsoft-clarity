@@ -1,0 +1,36 @@
+{
+  "name": "astro-microsoft-clarity",
+  "version": "0.0.1",
+  "description": "Provides microsoft clarity snippet injection.",
+  "keywords": [
+    "astro",
+    "astro-component",
+    "miscrosoft",
+    "analytics",
+    "snippet",
+    "clarity",
+    "javascript"
+  ],
+  "homepage": "https://xxxx",
+  "bugs": {
+    "url": "https://github.com/wanghaisheng/astro-microsoft-clarity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanghaisheng/astro-microsoft-clarity",
+    "directory": "app/Analytics"
+  },
+  "license": "MIT",
+  "author": "wanghaisheng",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.ts",
+    "Props.ts",
+    "MicrosoftClarity.astro",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
