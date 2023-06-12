@@ -5,7 +5,7 @@ Provides Microsoft clarity snippet injection.
 ## 📦  Installation
 
 ```sh
-pnpm i astro-google-analytics
+pnpm i astro-microsoft-clarity
 ```
 
 ## 🛠  Usage
